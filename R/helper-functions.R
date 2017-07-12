@@ -202,10 +202,6 @@ library(proj4)
 # NEW YORK LONG ISLAND STATE PLANE PROJECTION
 # see: http://spatialreference.org/ref/esri/102718/
 
-library(proj4)
-# NEW YORK LONG ISLAND STATE PLANE PROJECTION
-# see: http://spatialreference.org/ref/esri/102718/
-
 Convert_XY <- function(x) {
   library(proj4)
   # NEW YORK LONG ISLAND STATE PLANE PROJECTION
